@@ -9,6 +9,7 @@ const root = new Vue({
   name: 'Vue Hello Manu',
   el: '#root', 
   data: {
-    title: 'Ciao sono Manu e faccio parte della Classe 68!'
+    title: 'Ciao sono Manu e faccio parte della Classe 68!',
+    img: 'https://cdn.corrieredellosport.it/img/990/495/2021/03/15/153056303-77104e00-7cc1-41c0-a18d-d0509dd9e70e.jpg'
   }
 })
